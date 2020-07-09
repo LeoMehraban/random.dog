@@ -38,3 +38,11 @@ On the `GET /woof`, `GET /woof.json`, and `GET /doggos` endpoints, you may add a
 Example: `GET random.dog/woof?filter=mp4,webm` will only return dogs that do not have an extension of `mp4` or `webm`.
 
 Example: `GET random.dog/woof?include=mp4,webm` will only return dogs that do have an extension of `mp4` or `webm`.
+
+## Thanks
+
+This is the fork of an api that i used in [random-dog](https://github.com/LeoMehraban/random-dog) and [DogApp](https://gitub.com/LeoMehraban/DogApp).
+
+so thanks for creating this. i will use it in my next dog related web app. also i don't know why i forked this repo.
+
+also, check to origanal out: [https://github.com/AdenFlorian/random.dog](https://github.com/AdenFlorian/random.dog)
